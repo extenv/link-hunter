@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+	  xmlns:app="http://schemas.android.com/apk/res-auto">
+	<item android:id="@+id/back"
+		android:icon="@drawable/arrow_left"
+		app:showAsAction="ifRoom"
+		android:title="Back" />
+	<item android:id="@+id/copy"
+		android:icon="@drawable/clip"
+		app:showAsAction="ifRoom"
+		android:title="Copy Link!" />
+</menu>

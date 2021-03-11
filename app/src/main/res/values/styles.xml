@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
+	</style>
+	<style name="spinner_style">
+    <item name="android:background">@drawable/gradient_spinner</item>
+    <item name="android:layout_marginTop">2dp</item>
+  </style>
+	<style name="search_style">
+		<item name="android:background">@drawable/gradient_search</item>
+		
+	</style>
+</resources>
